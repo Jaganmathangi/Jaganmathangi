@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Probability & Statistics**
 
-- 📫 How to reach me **https://www.linkedin.com/in/jaganmohanmathangi/**
+- 📫 How to reach me **lixjm75@nottingham.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
