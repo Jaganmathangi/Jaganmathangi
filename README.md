@@ -1,19 +1,26 @@
-**About Me**
+<h1 align="center">Hi 👋, I'm Jagan Mohan Mathangi</h1>
+<h3 align="center">An Aspiring Data Analyst from India, currently pursuing MSc Financial Technology at the University of Nottingham.</h3>
 
-👋 Hi, I’m Jagan Mohan Mathangi, currently pursuing an MSc in Financial Technology at the University of Nottingham. With over 4 years of experience as a Research Associate and Team Lead in the fintech industry, I have developed a strong foundation in financial technology and research.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganmathangi&label=Profile%20views&color=0e75b6&style=flat" alt="jaganmathangi" /> </p>
 
-I’m passionate about data and technology and am currently building my skillset in SQL, Tableau, Python, Numpy, Pandas, Matplotlib, Seaborn, and Statistics. My academic and professional journey is steering me towards becoming a Data Analyst or Data Scientist in a fast-paced fintech company in the UK.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganmathangi" alt="jaganmathangi" /></a> </p>
 
-Currently, I’m working on an SQL project, followed by Exploratory Data Analysis (EDA) and Hypothesis Testing projects. My ultimate goal is to contribute to innovative companies that value continuous learning and growth.
+- 🔭 I’m currently working on **Operational Analysis of Target’s Brazil Operations: A Practical Learning Case Study (2016-2018)**
 
+- 🌱 I’m currently learning **Probability & Statistics**
 
+- 📫 How to reach me **https://www.linkedin.com/in/jaganmohanmathangi/**
 
-<!---
-Jaganmathangi/Jaganmathangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaganmohanmathangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaganmohanmathangi/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaganmathangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaganmathangi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jaganmathangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaganmathangi" height="30" width="40" /></a>
+</p>
 
----
-python
-print('Hello, World!')
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmathangi&show_icons=true&locale=en&layout=compact" alt="jaganmathangi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmathangi&show_icons=true&locale=en" alt="jaganmathangi" /></p>
