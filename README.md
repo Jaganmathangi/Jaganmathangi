@@ -23,6 +23,6 @@
 
 
 
-```python
-print("Hello, World")
+```sql
+SELECT * FROM customers
 ```
