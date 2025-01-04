@@ -21,8 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmathangi&show_icons=true&locale=en&layout=compact" alt="jaganmathangi" /></p>
 
-
-
-```sql
-SELECT * FROM customers
-```
